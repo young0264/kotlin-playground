@@ -1,3 +1,5 @@
+package grammarBasic
+
 fun main() {
     var i = 0
     var startNum = 0

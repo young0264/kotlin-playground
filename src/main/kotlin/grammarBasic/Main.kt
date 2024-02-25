@@ -1,3 +1,5 @@
+package grammarBasic
+
 fun main(args: Array<String>) {
 
     var v1 = 1

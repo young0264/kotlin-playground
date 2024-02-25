@@ -1,11 +1,11 @@
-
-/** 코틀린에서는 항상 main 함수를 시작함수로 인식함 */
+package oopBasic
+/** 코틀린에서는 항상 grammarBasic.oopBasic.overExam.main 함수를 시작함수로 인식함 */
 fun main() {
 //    val num1 = readLine()!!.toInt()
 //    val num2 = readLine()!!.toInt()
 
-//    sum(num1, num2)
-//    displyInfo()
+//    oopBasic.sum(num1, num2)
+//    oopBasic.displyInfo()
     var myMathScore = readLine()!!.toInt()
     var myRank = checkRank(myMathScore)
     println("나의 등급은 : ${myRank}")

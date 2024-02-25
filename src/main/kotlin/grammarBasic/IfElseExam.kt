@@ -1,3 +1,5 @@
+package grammarBasic
+
 fun main(args: Array<String>) {
 
     var koreanScore = readLine()!!.toInt() // 국어점수 입력

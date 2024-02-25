@@ -1,3 +1,5 @@
+package grammarBasic
+
 fun main() {
 
     var todayNumber = readLine()!!.toInt()
