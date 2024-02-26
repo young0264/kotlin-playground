@@ -1,4 +1,4 @@
-package grammarBasic.accessModExam
+package grammarBasic
 
 fun method1() {
     try {

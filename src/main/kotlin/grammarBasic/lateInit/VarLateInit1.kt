@@ -1,4 +1,4 @@
-package grammarBasic.accessModExam.lateInit
+package grammarBasic.lateInit
 
 fun main(){
     var s1 = Student()
